@@ -4,7 +4,7 @@
     <div class="Triangle Triangle--one"/>
     <div class="Triangle Triangle--three"/>
     <div class="Triangle Triangle--four"/> -->
-    this is a logo component
+    this is a logo component2
   </div>
 </template>
 
